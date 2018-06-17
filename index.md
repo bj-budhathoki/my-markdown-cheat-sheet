@@ -47,6 +47,13 @@ npm install express
 |------|--------------|-----|
 |loot-2|Nischal Basnet| 7.8 |
 |kusume|Rajesh Hamal  | 6.6 |
+
+### Tables example-2
+|Movies|   Director   |IMDB|
+|------|--------------|-----|
+|loot-2|Nischal Basnet| 7.8 |
+|kusume|Rajesh Hamal  | 6.6 |
+
 ###blockquotes
 >this is the blockquotes example
 
