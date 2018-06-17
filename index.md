@@ -47,8 +47,17 @@ npm install express
 |------|--------------|-----|
 |loot-2|Nischal Basnet| 7.8 |
 |kusume|Rajesh Hamal  | 6.6 |
+
+### Tables example-2
+|Movies|   Director   |IMDB|
+|------|--------------|-----|
+|loot-2|Nischal Basnet| 7.8 |
+|kusume|Rajesh Hamal  | 6.6 |
+
 ###blockquotes
 >this is the blockquotes example
+
+>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a
 
 >It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a
 
