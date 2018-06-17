@@ -32,3 +32,14 @@ this is the ~~strikethrough~~ example
 
 ##images
  ![bijay budhathoki](https://source.unsplash.com/random/50X50 "logo title here")
+###code and syntax Highlighting
+```javascript
+const str="I love javascript";
+console.log(str);
+npm install express
+```
+```HTML
+    <main>Html tage</main>
+    <p>code and syntax heigthlight</p>
+```
+###Tables example
