@@ -42,4 +42,8 @@ npm install express
     <main>Html tage</main>
     <p>code and syntax heigthlight</p>
 ```
-###Tables example
+### Tables example
+|Movies|   Director   |IMDB|
+|------|--------------|-----|
+|loot-2|Nischal Basnet| 7.8 |
+|kusume|Rajesh Hamal  | 6.6 |
