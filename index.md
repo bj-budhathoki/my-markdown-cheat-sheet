@@ -9,4 +9,7 @@
 this is the _italic_ text
 this is the **bold** text
 this is the combination of both _italic_ and **bold** text.
-**_bold pluse italic_**
+**_bold pluse italic_**'
+
+[commet]:for links
+[visit medium!](http://medium.com)
