@@ -5,3 +5,8 @@
 ####this is the header four
 #####this is the header fifth
 ######this is the header six
+[comment]: for text formating
+this is the _italic_ text
+this is the **bold** text
+this is the combination of both _italic_ and **bold** text.
+**_bold pluse italic_**
