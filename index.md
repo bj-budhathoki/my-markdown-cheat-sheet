@@ -14,6 +14,8 @@ this is the ~~strikethrough~~ example
 
 [commet]:for links
 [visit medium!](http://medium.com)
+[visite googel](https://www.google.com "Google's homepage")
+
 [commet]:List
 ##list
 #####unorder list
@@ -28,3 +30,5 @@ this is the ~~strikethrough~~ example
     1. item a
     1. item a
 
+##images
+ ![bijay budhathoki](https://source.unsplash.com/random/50X50 "logo title here")
