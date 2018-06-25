@@ -1,10 +1,10 @@
 [comment]:For Header
-#this is the header one(header 1)
-##this is the header two(header 2)
-###this is the header three(header 3)
-####this is the header four
-#####this is the header fifth
-######this is the header six
+# this is the header one(header 1)
+## this is the header two(header 2)
+### this is the header three(header 3)
+#### this is the header four
+##### this is the header fifth
+###### this is the header six
 [comment]: for text formating
 this is the _italic_ text
 this is the **bold** text
@@ -17,8 +17,8 @@ this is the ~~strikethrough~~ example
 [visite googel](https://www.google.com "Google's homepage")
 
 [commet]:List
-##list
-#####unorder list
+## list
+##### unorder list
 * item1
 * item2
 * item3
@@ -27,16 +27,16 @@ this is the ~~strikethrough~~ example
 * item4
 * item4
 * item4
-####order list
+#### order list
 1. item1
 1. item1
 1. item1
     1. item a
     1. item a
 
-##images
+## images
  ![bijay budhathoki](https://source.unsplash.com/random/50X50 "logo title here")
-###code and syntax Highlighting
+### code and syntax Highlighting
 ```javascript
 const str="I love javascript";
 console.log(str);
@@ -58,7 +58,7 @@ npm install express
 |loot-2|Nischal Basnet| 7.8 |
 |kusume|Rajesh Hamal  | 6.6 |
 
-###blockquotes
+### blockquotes
 >this is the blockquotes example
 
 >It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a
